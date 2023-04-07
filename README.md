@@ -1,5 +1,4 @@
-# core-code-from-scra
-**pasos para crear una pizza**
+# pasos para crear una pizza
 * Comprar ingredientes
 1. preparar ingredientes
 1.1 hacer y amasar la masa de pizza
