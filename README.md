@@ -8,6 +8,3 @@
 1.4 colocar la masa en la bandeja
 1.5 llevarla al horno
 1.6 retirar pizza
-
-
-
