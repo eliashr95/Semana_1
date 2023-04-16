@@ -1,5 +1,6 @@
 # pseudocodigo calcular edad
 Algoritmo averiguar_anios
+	
 	definir edad,anio_actual,anio_nacimiento Como entero
 	
 	escribir"ingrese el anio actual";
